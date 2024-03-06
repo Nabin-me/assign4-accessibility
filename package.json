@@ -5,7 +5,7 @@
   "scripts": {
     "start": "lite-server --baseDir=\"public\""
   },
-  "author": "",
+  "author": "Nabin Dahal",
   "private": true,
   "devDependencies": {
     "lite-server": "^2.6.1"
